@@ -1,0 +1,10 @@
+Brief 5 jours
+Modalité de travail : individuel
+
+Créer une application de Gestion
+Application API CRUD (create, read, update, delete) 
+Technologies à utiliser : Html/CSS/Jquery/Bootstrap/ Node JS/Express/JSON
+
+le thème de l'application est à vous de choisir (par exemple : gestion auto, gestion des produits électroniques , gestion hôtellerie...etc).
+
+L’application doit avoir 2 pages.

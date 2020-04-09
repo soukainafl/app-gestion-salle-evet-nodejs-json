@@ -1,0 +1,124 @@
+[
+     {
+          "id": 1,
+          "name": "afrah tazi",
+          "ville": "safi",
+          "prix_par_jour": "6000 dh",
+          "nbr_de_personne": 100,
+          "option": "anniversaire",
+          "date_reservation": "20/01/2020"
+     },
+     {
+          "id": 2,
+          "name": "afrah saada",
+          "ville": "casablanca",
+          "prix_par_our": "10000 dh",
+          "nbr_de_personne": 200,
+          "option": " réunion",
+          "date_reservation": "10/02/2020"
+     },
+     {
+          "id": 3,
+          "name": "lmanzah",
+          "ville": "marrakech",
+          "prix_par_jour": "10000 dh",
+          "nbr_de_personne": 300,
+          "option": "réunion",
+          "date_reservation": "23/09/2020"
+     },
+     {
+          "id": 4,
+          "name": "sourgtg",
+          "ville": "safi",
+          "option": "mariage",
+          "date_reservation": "23"
+     },
+     {
+          "id": 5,
+          "name": "sourgtg",
+          "ville": "safi",
+          "option": "mariage",
+          "date_reservation": "23"
+     },
+     {
+          "id": 6,
+          "name": "soukaina filale",
+          "ville": "safi",
+          "prix_par_jour": "rfri",
+          "nbr_de_personne": "222",
+          "option": "ffgh",
+          "date_reservation": "fgg"
+     },
+     {
+          "id": 7,
+          "name": "afrah",
+          "ville": "markch",
+          "prix_par_jour": "300",
+          "nbr_de_personne": "123",
+          "option": "EFEG",
+          "date_reservation": "12"
+     },
+     {
+          "id": 8,
+          "name": "afrah",
+          "ville": "markch",
+          "prix_par_jour": "300",
+          "nbr_de_personne": "123",
+          "option": "EFEG",
+          "date_reservation": "12"
+     },
+     {
+          "id": 9,
+          "name": "afrah",
+          "ville": "markch",
+          "prix_par_jour": "300",
+          "nbr_de_personne": "123",
+          "option": "EFEG",
+          "date_reservation": "12"
+     },
+     {
+          "id": 10,
+          "name": "farhti",
+          "ville": "fes",
+          "prix_par_jour": "300",
+          "nbr_de_personne": "123",
+          "option": "ANNIV",
+          "date_reservation": "23"
+     },
+     {
+          "id": 11,
+          "name": "GFH",
+          "ville": "HJ",
+          "prix_par_jour": "300",
+          "nbr_de_personne": "224",
+          "option": "ANNIV",
+          "date_reservation": "7"
+     },
+     {
+          "id": 12,
+          "name": "GFH",
+          "ville": "HJ",
+          "prix_par_jour": "300",
+          "nbr_de_personne": "224",
+          "option": "ANNIV",
+          "date_reservation": "7"
+     },
+     {
+          "id": 13,
+          "name": "nkfnfv",
+          "ville": "ijgrij",
+          "prix_par_jour": "13",
+          "nbr_de_personne": "123",
+          "option": "JGJLTJ",
+          "date_reservation": "GTIJ"
+     },
+     {
+          "id": 14,
+          "name": "qqq",
+          "ville": "safi",
+          "prix_par_jour": "2434",
+          "nbr_de_personne": "122",
+          "option": "ANNIV",
+          "date_reservation": "12"
+     }
+]
